@@ -14,7 +14,7 @@ This repository contains MATLAB code and simulation results for a project studyi
 
 ## Repository Contents
 - `code/`: MATLAB scripts for solving the sequential entry model and running simulations.  
-- `results/`: Output figures and tables showing simulated productivity distributions.  
+- `Pictures/`: Output figures and tables showing simulated productivity distributions.  
 
 ## Related Paper
 A draft of the paper based on this project is available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3584191).  
